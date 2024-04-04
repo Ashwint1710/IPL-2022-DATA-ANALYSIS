@@ -19,7 +19,7 @@ Here are the questions with proper formatting:
 14. Which unsold players were sold in the previous year?
 15. What is the total count of unsold players?
 ********************************************************************************************************************************************************************
-𝗢𝗯𝗷𝗲𝗰𝘁𝗶𝘃𝗲𝘀
+𝗢𝗯𝗷𝗲𝗰𝘁𝗶𝘃𝗲𝘀 :
 
 The objectives of this project are as follows:
 1. To analyse the player transactions in the IPL 2024 auction comprehensively.
@@ -33,11 +33,11 @@ The objectives of this project are as follows:
 
 ********************************************************************************************************************************************************************
 
-𝗖𝗼𝗻𝗰𝗹𝘂𝘀𝗶𝗼𝗻
+𝗖𝗼𝗻𝗰𝗹𝘂𝘀𝗶𝗼𝗻 :
 
 After conducting the analysis of the IPL 2024 auction data, several key insights emerge. Firstly, a total count of players participating in the auction process indicates the magnitude of player transactions within the league. Categorizing players into different roles, such as batsmen, bowlers, all-rounders, and wicketkeepers, provides a comprehensive understanding of the player composition. Visualizing this distribution through a pie chart offers a clear depiction of the player roles prevalent in the league.
 Furthermore, examining the count of sold and unsold players highlights the competitiveness of the auction and the teams' strategies in player acquisition. Understanding the number of players bought by each team reveals insights into team dynamics and resource allocation strategies. Additionally, analysing the distribution of player types within each team sheds light on the team's strengths and weaknesses.
 Moreover, identifying the highest amount spent by teams for individual players underscores the value teams attribute to certain players. The analysis also identifies the top performers in each category, such as bowlers, batters, all-rounders, and wicketkeepers, who commanded the highest prices in the auction.
 Finally, the list of unsold players from the current auction who were sold in the previous year provides insights into player performance trends and market fluctuations. Overall, this analysis offers valuable insights into the dynamics of player transactions, team strategies, and the competitive landscape of the IPL.
 
-**********************************************@***********************************************************@*********************************************************
+********************************************************************************************************************************************************************
