@@ -32,6 +32,7 @@ The objectives of this project are as follows:
 8. To draw actionable conclusions that can inform team strategies, player scouting, and future auction planning within the IPL.
 
 ********************************************************************************************************************************************************************
+![summary-of-IPL-2022-Mega-Auction](https://github.com/Ashwint1710/ashwin/assets/165998469/31eeada2-10d2-4c23-8a93-f5eddc5c73b8)
 
 𝗖𝗼𝗻𝗰𝗹𝘂𝘀𝗶𝗼𝗻 :
 
