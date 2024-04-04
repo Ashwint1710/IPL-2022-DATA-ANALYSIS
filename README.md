@@ -18,6 +18,8 @@ Here are the questions with proper formatting:
 13. Who was the top wicketkeeper sold in the auction?
 14. Which unsold players were sold in the previous year?
 15. What is the total count of unsold players?
+![summary-of-IPL-2022-Mega-Auction](https://github.com/Ashwint1710/ashwin/assets/165998469/fd244979-4d3d-448d-a7e3-ca4027090b74)
+
 ********************************************************************************************************************************************************************
 𝗢𝗯𝗷𝗲𝗰𝘁𝗶𝘃𝗲𝘀 :
 
@@ -32,7 +34,6 @@ The objectives of this project are as follows:
 8. To draw actionable conclusions that can inform team strategies, player scouting, and future auction planning within the IPL.
 
 ********************************************************************************************************************************************************************
-![summary-of-IPL-2022-Mega-Auction](https://github.com/Ashwint1710/ashwin/assets/165998469/31eeada2-10d2-4c23-8a93-f5eddc5c73b8)
 
 𝗖𝗼𝗻𝗰𝗹𝘂𝘀𝗶𝗼𝗻 :
 
